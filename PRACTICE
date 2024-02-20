@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> <B>COMPUTER PRACTICAS PRACTICE</B></TITLE>
+</HEAD>
+<BODY>
+<U><B>UNORDERED LIST</B</U>
+<UL>
+<li>Anvith</li>
+<li>Shrikar Naidu</li>
+<li>Harshith</li>
+<li>Srishan</li>
+</ul>
+<u><B>ORDERED LIST</B></U>
+<ol>
+<li>Anvith</li>
+<li>Abhishikth</li>
+<li>Divya</li>
+<li>Suresh Babu</li>
+</ol>
+<u><b>MARQUEE TAG</B></U>
+<marquee direction ="right"><B>COMPUTER HTML PRACTICE</marquee>
+<u><b>INSERTING IMAGES</B></u>
+<p><img src="C:\Users\User\OneDrive\Pictures\1587975653-Computer-7_Page_01.jpg"Border="3"Hspace="100"Vspace="30"height="300"width="400"></p>
+<TABLE BORDER="3"CELL PADDING="6"CELLSPACING="5"BORDERCOLOR="RED" WIDTH="50%" HEIGHT="50%">
+<CAPTON>FRIENDS NAMES AND CLASS</CAPTION>
+<TR>
+<TH>NAME</TH>
+<TH>CLASS</TH> 
+</TR>
+<TR>
+<TD>HARSHITH VII-G</TD>
+<TD>SRISHAN  VII-G</TD>
+</TR>
+<TR>
+<TD>ANVITH VII-G</TD>
+<TD>SHRIKAR VII-G</TD>
+</TR>
+</TABLE>
+<A HREF="https://www.w3schools.com/">CLICK HERE TO VISIT W3schools.com</A>
+</BODY>
+</HTML>
